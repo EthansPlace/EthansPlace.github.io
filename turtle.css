@@ -1,0 +1,42 @@
+
+a {
+  color: antiquewhite;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h1 { 
+
+  
+ }
+ 
+ 
+ 
+#outline {
+	-webkit-text-stroke: 5px black;
+
+}
+
+#navposition {
+	position:static
+	top:500px;
+}
+
+#float {
+	position:absolute;
+left:40px;
+
+}
+
+#floatr {
+		position:absolute;
+left:1450px;
+}
+
+.header {
+    position:absolute;
+    left:0;
+    top:0;
+    width: 100%;
+    background-color: black;
+}
